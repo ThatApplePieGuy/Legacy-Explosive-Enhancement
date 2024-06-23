@@ -23,4 +23,4 @@ plugins {
 }
 
 
-rootProject.name = "Legacy-Explosive-Enhancement"
+rootProject.name = "ExplosiveEnhancement-1.8.9"

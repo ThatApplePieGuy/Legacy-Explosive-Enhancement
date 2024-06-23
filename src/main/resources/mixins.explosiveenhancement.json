@@ -1,0 +1,11 @@
+{
+  "package": "nodomain.applepies.explosiveenhancement.mixin",
+  "refmap": "mixins.explosiveenhancement.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "EffectRendererMixin",
+    "EnumParticleTypesMixin",
+    "ExplosionMixin"
+    ]
+}

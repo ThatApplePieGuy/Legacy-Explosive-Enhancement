@@ -1,16 +1,16 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "Explosive Enhancement",
+    "description": "Enhanced explosion animation",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "https://github.com/romangraef/Forge1.8.9Template/",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Superkat32"
     ],
-    "credits": "",
+    "credits": "ApplePies",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
