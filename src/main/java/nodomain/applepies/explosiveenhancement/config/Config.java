@@ -32,7 +32,7 @@ public class Config {
     public static void saveConfig() {
         config.get("general", "enabled", true).setValue(enabled);
         config.get("general", "scale", 1.0).setValue(scale);
-        config.get("general", "smoke", true).setValue(enabled);
+        config.get("general", "smoke", true).setValue(smoke);
 
         if (config.hasChanged()) {
             config.save();
