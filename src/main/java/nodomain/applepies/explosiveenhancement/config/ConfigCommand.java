@@ -1,6 +1,5 @@
 package nodomain.applepies.explosiveenhancement.config;
 
-import nodomain.applepies.explosiveenhancement.ConfigScreen;
 import nodomain.applepies.explosiveenhancement.ExplosiveEnhancement;
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.ICommandSender;
@@ -11,7 +10,7 @@ public class ConfigCommand extends CommandBase {
 
     @Override
     public String getCommandName() {
-        return "explosions";
+        return "explosiveenhancement";
     }
 
     @Override

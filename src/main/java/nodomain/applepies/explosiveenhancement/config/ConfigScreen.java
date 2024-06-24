@@ -1,6 +1,5 @@
-package nodomain.applepies.explosiveenhancement;
+package nodomain.applepies.explosiveenhancement.config;
 
-import nodomain.applepies.explosiveenhancement.config.Config;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.fml.client.config.GuiSlider;
@@ -40,7 +39,7 @@ public class ConfigScreen extends GuiScreen {
     @Override
     public void drawScreen(int mouseX, int mouseY, float partialTicks) {
         drawDefaultBackground();
-        drawCenteredString(fontRendererObj, "Config", width / 2, height / 2 - 48, 0xFFFFFF);
+        drawCenteredString(fontRendererObj, "Config", width / 2, height / 2 - 60, 0xFFFFFF);
         super.drawScreen(mouseX, mouseY, partialTicks);
     }
 
