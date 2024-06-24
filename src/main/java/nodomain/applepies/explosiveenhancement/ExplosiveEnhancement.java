@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
 
-@Mod(modid = "explosiveenhancement", version="1.0.0", useMetadata=true, clientSideOnly=true)
+@Mod(modid = "explosiveenhancement", version="1.0.1", useMetadata=true, clientSideOnly=true)
 
 public class ExplosiveEnhancement {
 
